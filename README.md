@@ -1,2 +1,4 @@
-# CKUS
-Centos Kernel Update Script
+# LKUS
+Linux Kernel Update Script
+Linux内核更新脚本
+
